@@ -6,3 +6,6 @@ lorem this is file text
 ## Purpose
 
 Sample website with plenty of files for demos
+
+### no purpose
+some changes a website
