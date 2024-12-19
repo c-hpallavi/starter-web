@@ -12,8 +12,12 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+<<<<<<< HEAD
     jQuery, Modernizr
 
 #new changes added from here
 #newwwwwwwww
 ============
+=======
+    jQuery, Modernizrrrr
+>>>>>>> 859ac5b4c6555077cbe200c79b0d8f7224e8e154
